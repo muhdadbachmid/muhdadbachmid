@@ -9,3 +9,10 @@ I'm constantly seeking to grow and contribute to impactful projects in the field
 If you'd like to connect or collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alfarisbachmid/).<br>
 
 Thanks for visiting! 🚀
+
+<p align="left">
+<a href="https://github.com/muhdadbachmid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
