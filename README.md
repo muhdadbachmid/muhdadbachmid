@@ -18,7 +18,6 @@ I'm continuously upskilling through hands-on projects and certifications. Check 
 🔗 [Coursera Profile](https://www.coursera.org/learner/alfarisbachmid)
 
 ### 📬 Let's Connect!  
-- **GitHub:** [@alfarisbachmid](https://github.com/alfarisbachmid)  
 - **LinkedIn:** [Muhdad Alfaris Bachmid](https://www.linkedin.com/in/alfarisbachmid/)  
 - **Instagram:** [@alfarisbachmid](https://instagram.com/alfarisbachmid)  
 
