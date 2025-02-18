@@ -18,8 +18,5 @@ I'm continuously upskilling through hands-on projects and certifications. Check 
 🔗 [Coursera Profile](https://www.coursera.org/learner/alfarisbachmid)
 
 ### 📬 Let's Connect!  
-- **LinkedIn:** [Muhdad Alfaris Bachmid](https://www.linkedin.com/in/alfarisbachmid/)  
-- **Instagram:** [@alfarisbachmid](https://instagram.com/alfarisbachmid)  
-
 💡 Always eager to collaborate on **Machine Learning and Data Analyst** projects. Feel free to reach out! 🚀
 
