@@ -1,13 +1,26 @@
-## Hallo! 👋
+## 🚀 Hello! I'm **Muhdad Alfaris Bachmid** 👋
 
-I'm **Muhdad Alfaris Bachmid**, passionate about **Machine Learning**.<br>
+### 💡 Machine Learning & Data Science Enthusiast  
+I am passionate about **Machine Learning and Data**, constantly exploring innovative solutions in these fields. My journey in technology has led me to work on various impactful projects, focusing on **predictive modeling, time series analysis, and deep learning**.
 
-My journey in technology has led me to explore various innovative solutions, and I've had the opportunity to work on exciting projects. In 2023, I interned as a **Research and Development Intern** at **Indosat Business B2B**, where I gained valuable experience in the telecom and enterprise sectors.<br>
+### 🔬 Professional Experience  
+- **Research & Development Intern @ Indosat Business B2B (2023)**  
+  Gained hands-on experience in **telecom analytics, enterprise AI solutions, and data-driven decision-making**.
+- **Data Analyst @ Asosiasi Peneliti Muda Indonesia (APMI)**  
 
-I'm constantly seeking to grow and contribute to impactful projects in the field of AI and technology.<br>
+### 🛠️ Tech Stack  
+- **Programming:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), SQL  
+- **Machine Learning:** Supervised & Unsupervised Learning, Time Series Forecasting, Deep Learning  
+- **Tools:** Jupyter Notebook, Google Colab, Looker
+  
+### 📚 Learning & Certifications  
+I'm continuously upskilling through hands-on projects and certifications. Check out my latest learning progress on **Coursera**:  
+🔗 [Coursera Profile](https://www.coursera.org/learner/alfarisbachmid)
 
-If you'd like to connect or collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alfarisbachmid/).<br>
+### 📬 Let's Connect!  
+- **GitHub:** [@alfarisbachmid](https://github.com/alfarisbachmid)  
+- **LinkedIn:** [Muhdad Alfaris Bachmid](https://www.linkedin.com/in/alfarisbachmid/)  
+- **Instagram:** [@alfarisbachmid](https://instagram.com/alfarisbachmid)  
 
-Thanks for visiting! 🚀
-
+💡 Always eager to collaborate on **Machine Learning and Data Analyst** projects. Feel free to reach out! 🚀
 
