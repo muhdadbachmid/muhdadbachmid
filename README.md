@@ -1,7 +1,7 @@
 ## 🚀 Hello! I'm **Muhdad Alfaris Bachmid** 👋
 
 ### 💡 Machine Learning & Data Science Enthusiast  
-I am passionate about **Machine Learning and Data**, constantly exploring innovative solutions in these fields. My journey in technology has led me to work on various impactful projects, focusing on **predictive modeling, time series analysis, and deep learning**.
+I am passionate about **Machine Learning and Data**, constantly exploring innovative solutions in these fields. My journey in technology has led me to work on various impactful projects, focusing on **predictive modeling, time series analysis, and deep learning**. 
 
 ### 🔬 Professional Experience  
 - **Research & Development Intern @ Indosat Business B2B (2023)**  
