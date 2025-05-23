@@ -1,4 +1,3 @@
-# 💫 About Me
 ## 🚀 Hello! I'm **Muhdad Alfaris Bachmid** 👋
 
 ### 💡 Machine Learning & Data Science Enthusiast  
