@@ -7,8 +7,6 @@ My journey in technology has led me to work on various impactful projects, focus
 ### 🔬 Professional Experience  
 - **Research & Development Intern @ Indosat Business B2B (2023)**  
   Gained hands-on experience in **telecom analytics, enterprise AI solutions, and data-driven decision-making**.
-- **Data Analyst @ Asosiasi Peneliti Muda Indonesia (APMI)**  
-  Responsible for analyzing survey results, visualizing data, and supporting regional program development.
 
 ### 📚 Learning & Certifications  
 I'm continuously upskilling through hands-on projects and certifications. Check out my learning journey:  
