@@ -1,20 +1,14 @@
-## 🚀 Hello! I'm **Muhdad Alfaris Bachmid** 👋
+## **Muhdad Alfaris Bachmid** 👋
 
-### 💡 Machine Learning & Data Science Enthusiast  
+### Machine Learning & Data Science Enthusiast  
 I am passionate about **Machine Learning and Data**, constantly exploring innovative solutions in these fields.  
-My journey in technology has led me to work on various impactful projects, focusing on **predictive modeling, time series analysis, and deep learning**.
-
-### 🔬 Professional Experience  
-- **Research & Development Intern @ Indosat Business B2B (2023)**  
-  Gained hands-on experience in **telecom analytics, enterprise AI solutions, and data-driven decision-making**.
 
 ### 📚 Learning & Certifications  
-I'm continuously upskilling through hands-on projects and certifications. Check out my learning journey:  
 🔗 [Coursera Profile](https://www.coursera.org/learner/alfarisbachmid)
 
 ---
 
-### 🌐 Socials  
+### Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfarisbachmid)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfarisbachmid)
 
